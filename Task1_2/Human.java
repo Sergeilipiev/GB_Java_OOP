@@ -12,5 +12,4 @@ public class Human implements Call{
     public void callCat(Cat cat) {
         cat.answer("кис-кис");
     }
-
 }
