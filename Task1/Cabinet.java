@@ -1,4 +1,4 @@
-package Task1_1;
+package Task1;
 
 public class Cabinet implements Usage {
     private int width;

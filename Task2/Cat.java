@@ -1,4 +1,4 @@
-package Task1_2;
+package Task2;
 
 public class Cat extends Pet {
     @Override
